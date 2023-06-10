@@ -28,8 +28,8 @@ You can install them using pip or conda.
 
 To use the GUI, run the following command:
 
-`bash
-python GUI.py`
+'```bash
+python GUI.py```'
 
 To use the Jupyter notebook, open it in your preferred IDE or browser.
 
