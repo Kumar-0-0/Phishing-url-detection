@@ -28,13 +28,14 @@ You can install them using pip or conda.
 
 To use the GUI, run the following command:
 
-```bash
-python GUI.py
+`bash
+python GUI.py`
+
 To use the Jupyter notebook, open it in your preferred IDE or browser.
 
 To use the feature extractor or the random forest model, import them in your Python code as follows:
 
 from feature_extractor import extract_features
 from rf_model import predict
-Disclaimer
+## Disclaimer
 The project is still in progress and may contain bugs or errors. Feel free to report any issues or suggestions on GitHub.
