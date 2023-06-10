@@ -34,6 +34,10 @@ from rf_model import predict
 
 To use the GUI, run the following command:
 
-```bash
-python GUI.py```
+`python GUI.py`
 
+##Disclaimer
+The project is still in progress and may contain bugs or errors. Feel free to report any issues or suggestions on GitHub. 
+
+## Contact
+If you have any questions or feedback about this project, feel free to contact me at dk3828u@gmail.com. I would love to hear from you! 😊
