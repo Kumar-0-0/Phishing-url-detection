@@ -40,4 +40,4 @@ To use the GUI, run the following command:
 The project is still in progress and may contain bugs or errors. Feel free to report any issues or suggestions on GitHub. 
 
 ## Contact
-If you have any questions or feedback about this project, feel free to contact me at dkumar05@icloud.com. I would love to hear from you! 😊
+If you have any questions or feedback about this project, feel free to contact me at dk3828u@gmail.com. I would love to hear from you! 😊
